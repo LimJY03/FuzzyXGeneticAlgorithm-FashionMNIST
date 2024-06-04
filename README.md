@@ -1,0 +1,1 @@
+# FuzzyXGeneticAlgorithm-FashionMNIST
